@@ -1,0 +1,17 @@
+# .NET
+StudentManagementAPI/bin/
+StudentManagementAPI/obj/
+
+# React
+StudentManagementFrontend/node_modules/
+StudentManagementFrontend/dist/
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
